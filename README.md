@@ -31,7 +31,7 @@ Designed in KiCad 10. LEDs grouped at the top, resistors in a row below, 4-pin h
 
 <img width="300"  alt="Screenshot 2026-09-09 234824" src="https://github.com/user-attachments/assets/6a089e2b-b565-40b9-b878-12a83bc294b4" />
 
-![3D render](images/pcb-3d.png)
+
 
 Footprints:
 - LEDs: `LED_THT:LED_D5.0mm`
